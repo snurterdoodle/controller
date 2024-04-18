@@ -1,3 +1,6 @@
+# get visual studio code for the python.
+get python from microsoft store.
+pip install keyboard serial pyautogui
 # How to use/make the controller.
 List.
 2 joystick modules (elegoo kit)
